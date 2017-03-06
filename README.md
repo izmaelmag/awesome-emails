@@ -6,6 +6,7 @@ List of tools, articles and videos about email design and development
 ### Templates
 __opensource__
 * [@sendwithus templates](https://github.com/sendwithus/templates)
+* [@leemunroe responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template)
 
 ### Tools
 * [@dudeonthehorse/kilogram](https://github.com/dudeonthehorse/kilogram): Email Development Framework

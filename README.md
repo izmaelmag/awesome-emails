@@ -23,6 +23,7 @@ __opensource__
 * [Web fonts in email](https://www.campaignmonitor.com/resources/guides/web-fonts-in-email/)
 * [Limitations of html emails](http://kb.mailchimp.com/campaigns/design/limitations-of-html-email)
 * [Why Clients Render Email Differently](https://blog.mailchimp.com/why-clients-render-email-differently/)
+* [A Guide for SVG Support in Email](https://css-tricks.com/a-guide-on-svg-support-in-email/)
 
 ### Videos
 * [Designing HTML Emails Tutorial (Level 1)](https://www.youtube.com/watch?v=vsQmiTe_GLQ)

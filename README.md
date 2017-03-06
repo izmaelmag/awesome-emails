@@ -1,5 +1,7 @@
-# Email design tips
-List of tools, articles and videos about email design for frontend developers
+# Avesome emails
+List of tools, articles and videos about email design and development
+
+[Website](https://caspian-seagull.github.io/avesome-emails/)
 
 ## Tools
 

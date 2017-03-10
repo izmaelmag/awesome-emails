@@ -18,6 +18,14 @@ __opensource__
 * [Putsmail](https://putsmail.com): allows you to send emails up to 10 adresses for cross-platform testing
 * [Litmus](https://litmus.com): testing your mail and generationg screenshots in most populat email clients
 
+
+### Apps
+* [Polymail](https://polymail.io/) — Simple, Beautiful, Powerful Email
+* [Canary Mail](https://canarymail.io/) - Secure email app for Mac and iPhone.
+* [Morning Mail](http://mrng.me/) - is a very outstanding email app. It's made for people who always want to keep their inbox clean. Morning Mail separates new emails from other mail. It represents new emails as cards which can easily be sorted out with simple gestures, one at a time.
+* [Nylas Mail](https://github.com/nylas/nylas-mail) - is an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it's easy to create new experiences and workflows around email.
+
+
 ### Articles
 * [Building html email](http://www.leemunroe.com/building-html-email/)
 * [A complete breakdown of the CSS support for the top 10 most popular mobile, web and desktop email clients](https://www.campaignmonitor.com/css/)

@@ -13,11 +13,13 @@ __opensource__
 * [MJML](https://mjml.io): markup language designed to reduce the pain of coding a responsive email
 * [Mosaico](https://mosaico.io/): opensource email template builder
 * [Inline-css (node.js)](https://github.com/jonkemp/inline-css): converrts linked styles into inline
+* [Cakedown](http://cakedown.alexandredeschamps.ca): markdown to html email converter
 
 ### Services
 * [Putsmail](https://putsmail.com): allows you to send emails up to 10 adresses for cross-platform testing
 * [Litmus](https://litmus.com): testing your mail and generationg screenshots in most populat email clients
-
+* [Mailchimp](https://mailchimp.com/): email marketing platform
+* [Publicate](https://publicate.it): online service for email newsletters
 
 ### Apps
 * [Polymail](https://polymail.io/) — Simple, Beautiful, Powerful Email
@@ -33,6 +35,7 @@ __opensource__
 * [Limitations of html emails](http://kb.mailchimp.com/campaigns/design/limitations-of-html-email)
 * [Why Clients Render Email Differently](https://blog.mailchimp.com/why-clients-render-email-differently/)
 * [A Guide for SVG Support in Email](https://css-tricks.com/a-guide-on-svg-support-in-email/)
+* [Understanding retina images in HTML Email](https://savvyinbox.com/8bba8de8df58)
 
 ### Videos
 * [Designing HTML Emails Tutorial (Level 1)](https://www.youtube.com/watch?v=vsQmiTe_GLQ)

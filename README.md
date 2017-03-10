@@ -36,6 +36,8 @@ __opensource__
 * [Why Clients Render Email Differently](https://blog.mailchimp.com/why-clients-render-email-differently/)
 * [A Guide for SVG Support in Email](https://css-tricks.com/a-guide-on-svg-support-in-email/)
 * [Understanding retina images in HTML Email](https://savvyinbox.com/8bba8de8df58)
+* [Which doctype should you use in HTML emails?](https://emails.hteumeuleu.com/cd323fdb793c)
+* [Fixing bugs with Outlook specific CSS](https://cm.engineering/f4b8ae5be4f4)
 
 ### Videos
 * [Designing HTML Emails Tutorial (Level 1)](https://www.youtube.com/watch?v=vsQmiTe_GLQ)

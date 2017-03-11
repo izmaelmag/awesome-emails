@@ -3,6 +3,9 @@ List of tools, articles and videos about email design and development
 
 [Website](https://caspian-seagull.github.io/avesome-emails/)
 
+### General
+* [Email standards project](https://www.email-standards.org)
+
 ### Templates
 __opensource__
 * [@sendwithus templates](https://github.com/sendwithus/templates)
@@ -39,6 +42,9 @@ __opensource__
 * [Understanding retina images in HTML Email](https://savvyinbox.com/8bba8de8df58)
 * [Which doctype should you use in HTML emails?](https://emails.hteumeuleu.com/cd323fdb793c)
 * [Fixing bugs with Outlook specific CSS](https://cm.engineering/f4b8ae5be4f4)
+* [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
+* [Display Issues in Specific Email Clients](https://knowledgebase.constantcontact.com/articles/KnowledgeBase/5681-display-issues-in-specific-email-clients)
+* [Using CSS in HTML Emails: The Real Story](https://css-tricks.com/using-css-in-html-emails-the-real-story)
 
 ### Videos
 * [Designing HTML Emails Tutorial (Level 1)](https://www.youtube.com/watch?v=vsQmiTe_GLQ)

@@ -22,10 +22,11 @@ __opensource__
 * [Publicate](https://publicate.it): online service for email newsletters
 
 ### Apps
-* [Polymail](https://polymail.io/) — Simple, Beautiful, Powerful Email
-* [Canary Mail](https://canarymail.io/) - Secure email app for Mac and iPhone.
+* [Polymail (iOS, MacOS)](https://polymail.io/) — Simple, Beautiful, Powerful Email
+* [Canary Mail iOS, MacOS](https://canarymail.io/) - Secure email app for Mac and iPhone.
 * [Morning Mail](http://mrng.me/) - is a very outstanding email app. It's made for people who always want to keep their inbox clean. Morning Mail separates new emails from other mail. It represents new emails as cards which can easily be sorted out with simple gestures, one at a time.
 * [Nylas Mail](https://github.com/nylas/nylas-mail) - is an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it's easy to create new experiences and workflows around email.
+* [Rambox (Win x64/x32, MacOS)](http://rambox.pro)
 
 
 ### Articles

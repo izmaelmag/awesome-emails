@@ -7,9 +7,9 @@ List of tools, articles and videos about email design and development
 * [Email standards project](https://www.email-standards.org)
 
 ### Templates
-__opensource__
-* [@sendwithus templates](https://github.com/sendwithus/templates)
-* [@leemunroe responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template)
+* [@sendwithus/templates](https://github.com/sendwithus/templates)
+* [@leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template)
+* [@TedGoas/Cerberus](https://github.com/TedGoas/Cerberus)
 
 ### Tools
 * [@dudeonthehorse/kilogram](https://github.com/dudeonthehorse/kilogram): Email Development Framework

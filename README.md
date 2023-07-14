@@ -22,6 +22,7 @@ List of tools, articles and videos about email design and development
 * [Putsmail](https://putsmail.com): allows you to send emails up to 10 adresses for cross-platform testing
 * [Litmus](https://litmus.com): testing your mail and generationg screenshots in most populat email clients
 * [Mailchimp](https://mailchimp.com/): email marketing platform
+* [Mailscribe](https://mailscribe.com/): ai-powered email marketing tool
 * [Publicate](https://publicate.it): online service for email newsletters
 
 ### Apps

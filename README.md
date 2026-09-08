@@ -12,6 +12,7 @@ List of tools, articles and videos about email design and development
 * [@TedGoas/Cerberus](https://github.com/TedGoas/Cerberus)
 
 ### Tools
+* [Maizzle](https://maizzle.com): Quick build HTML emails using Tailwind
 * [@dudeonthehorse/kilogram](https://github.com/dudeonthehorse/kilogram): Email Development Framework
 * [MJML](https://mjml.io): markup language designed to reduce the pain of coding a responsive email
 * [Mosaico](https://mosaico.io/): opensource email template builder

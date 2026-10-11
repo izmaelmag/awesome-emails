@@ -24,6 +24,7 @@ List of tools, articles and videos about email design and development
 * [Litmus](https://litmus.com): testing your mail and generationg screenshots in most populat email clients
 * [Mailchimp](https://mailchimp.com/): email marketing platform
 * [Publicate](https://publicate.it): online service for email newsletters
+* [day3](https://day3.app): newsletters, product updates and transactional email for small software teams, written in Markdown blocks and billed by emails sent
 
 ### Apps
 * [Polymail (iOS, MacOS)](https://polymail.io/) — Simple, Beautiful, Powerful Email

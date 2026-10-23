@@ -15,6 +15,7 @@ List of tools, articles and videos about email design and development
 * [Maizzle](https://maizzle.com): Quick build HTML emails using Tailwind
 * [@dudeonthehorse/kilogram](https://github.com/dudeonthehorse/kilogram): Email Development Framework
 * [MJML](https://mjml.io): markup language designed to reduce the pain of coding a responsive email
+* [Emailens](https://emailens.dev): lints HTML email against 21 clients, with per-client CSS support and fixes
 * [Mosaico](https://mosaico.io/): opensource email template builder
 * [Inline-css (node.js)](https://github.com/jonkemp/inline-css): converrts linked styles into inline
 * [Cakedown](http://cakedown.alexandredeschamps.ca): markdown to html email converter
